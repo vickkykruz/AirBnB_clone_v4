@@ -57,7 +57,11 @@ ul {
 }
 
 li {
-}	
+}
+
+input {
+	margin-left: 10px;
+}
 
 h2 {
 	font-size: 16px;
